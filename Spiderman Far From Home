@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Spiderman Far From Home</title>
+  </head>
+  <body>
+    <h1 style="color: red ">Spiderman Far From Home</h1>
+
+
+        <ul class="top-nav">
+        <li class="home"><a class="Home"href="Spiderman Far From Home">Home</a></li>
+  <li class="home"><a class="Trailers" href="Spiderman Far From Home">Trailer</a></li>
+        <li class="home"><a class="Cast and Info" href="Cast and Info">Cast & Info</a></li>
+        <li class="home"><a class="contact-us" href="Cast and Info">Contact Us</a></li>
+        </ul
+
+
+
+<video controls poster="posterimage.jpg">
+  <source src="video\sspf.mp4" type="video/mp">
+</video>
+        <video controls poster="images\spider-man-far-poster-2.jpg">
+          <source src="video\sspf.mp4" type="video/mp4">
+            <source src="video\SPIDER-MAN_-FAR-FROM-HOME-Official-Trailer.webm" type="video/webm">
+              Sorry your browser does not support the video file
+
+        </video>
+  </body>
+</html>
